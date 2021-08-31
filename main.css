@@ -1,0 +1,240 @@
+.head1{
+ background-color: #D93636;
+
+}
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.head2{
+    margin-top:13em;
+}
+.p1{
+    margin-top: 2em;
+}
+.b1{
+    margin-top: 3.5em;
+    margin-bottom: 10em;
+}
+.b1 button{
+    margin-left: 1.5em;
+}
+.btnempezar{
+    background-color: #04C2C2;
+    color: #FFFFFF;
+    border: none;
+    padding: 12px 18px;
+}
+#empezar:hover{
+    background-color: #04B9B9;
+    color: #FFFFFF;
+}
+.btnconocer{
+    background-color: #D93636;
+    border:#04C2C2 solid 1px;
+    padding: 12px 18px;
+    color: #FFFFFF;
+}
+.btnconocer:hover{
+    background-color: #04C2C2;
+    color: #FFFFFF;
+}
+.head2 h1{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    color: #FFFFFF;
+}
+p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+.container2 h3{
+color: #FFFFFF;
+    padding-top: 6em;
+    padding-bottom: 6em;
+}
+.container2{
+    background-image: url(ELEMENTS/background2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #101717;
+
+}
+.container2 h2{
+    color: #FFFFFF;
+    padding-bottom: 6em;
+    padding-top: 1em;
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+
+}
+.container2 span{
+    color: #04C2C2;
+}
+.container3 h2{
+    padding-top: 2.12em;
+    font-weight: bold;
+}
+.container3 h4{
+    padding-top: 1.5em;
+    font-weight: normal;
+}
+.container3 .cards{
+    margin: 3em 0 3em 0;
+}
+.container3 img{
+    width: 6.25em;
+    height: 6.25em;
+}
+.container3 p{
+    color: black ;
+}
+h5{
+    font-weight: bold;
+    font-size: 18px;
+
+}
+.container3 h5{
+    margin-top:1.5em;
+    margin-bottom: .75em;
+    color: #D93636;
+}
+.container3 span{
+    color: #D93636;
+}
+h2{
+    font-weight: bold;
+}
+.container4{
+    background-color: #101717;
+}
+.impulsamos2{
+    margin-bottom: 11em;
+}
+.impulsamos1 h2{
+    padding-top: 2.68em;
+    padding-bottom: 4em;
+    color: #FFFFFF;
+    font-size: 32px;
+}
+.container5 h2{
+    font-size: 32px;
+    padding-top: 2.68em;
+    padding-bottom: 4em;
+    color: #04C2C2;
+}
+.container5 .d-flex{
+    margin-bottom: 11em;
+}
+footer, .background3{
+    background-color: #04C2C2;
+    color: #FFFFFF;
+}
+footer .bi-mailbox, .bi-building, .bi-phone{
+    color: #0A0A0A;
+    font-size:1.87em;
+}
+footer p{
+    margin-top: .75em;
+}
+footer .w-100{
+    padding-bottom:3.31em;
+}
+footer .container-fluid{
+    padding-top: 1.87em;
+}
+footer h3, h4, .background1 ol, .background1 h2{
+    color: #FFFFFF;
+}
+.head-contacto{
+padding: 3em 0 5em 0;
+    color: #FFFFFF;
+}
+.background1{
+    background-color: #D93636;
+}
+.container .col-sm-4{
+    background-color: #FFFFFF;
+    border: solid #0A0A0A;
+    border-radius: 4px;
+    box-shadow: 12px 12px 2px 1px #101717;
+}
+.form-group{
+    padding: 1em .5em 1em .5em;
+}
+.pad1{
+    padding-bottom: 5em;
+}
+.col-sm-8 div{
+    border: solid #04C2C2;
+}
+.col-sm-7 a div{
+    border: #0A0A0A solid;
+    background-color: #FFFFFF;
+    text-align: center;
+    color: #0A0A0A;
+    margin: 1em;
+    border-radius: 4px;
+    padding: .5em;
+
+}
+.col-sm-7 a p{
+    color: #0A0A0A;
+}
+#llamada, #correo, #calendario, #empezar, #conocer{
+    text-decoration: none;
+}
+.col-sm-7 a div:hover{
+    background-color: #04C2C2;
+}
+form .btnempezar{
+    margin: 1em;
+
+}
+.background2{
+    background-color: #101717;
+    color: #FFFFFF;
+}
+.formulario-resultado{
+    border: #101717 solid;
+    background-color: #D93636;
+    border-radius: 20px;
+    box-shadow: 12px 12px 2px 1px #04C2C2;
+    margin: 197px 0 337px 0;
+}
+.background2 .col h2{
+    padding: 121px 0 35px 0;
+}
+.padding1{
+    padding-bottom: 3.5em;
+}
+.padding2{
+    padding: 106px 0 1em 0;
+
+}
+.background1 .img-fluid, .background3 .img-fluid{
+    padding: 67px 22px 30px 0;
+}
+.padding3{
+    padding: 67px 0 29px 0;
+}
+.padding4{
+    padding-bottom: 2em;
+}
+.background4{
+    background-image: url("ELEMENTS/andrew-neel-aebPbwAWjDs-unsplash.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.background4 h2, h4{
+    color:white;
+    padding: 2em;
+}
+.formulario-resultado h2{
+    padding: 3em 0 0 0;
+}
